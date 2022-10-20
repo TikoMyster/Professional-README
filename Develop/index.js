@@ -158,7 +158,7 @@ const questions = [
 //TODO: function to write README file
 const writeFile = fileContent => {
     return new Promise((resolve, reject) => {
-        fs.writeFile('C:\Users\Csaec\downloads\bootcamp\Professional-README\dist', fileContent, err => {
+        fs.writeFile('./dist/', fileContent, err => {
             if (err) {
                 reject(err);
                 return;
