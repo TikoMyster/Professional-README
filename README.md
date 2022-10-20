@@ -41,7 +41,7 @@ Here is a video demo showing the functionality of this code if written correctly
 
 Direct Video:
 
-  [](Develop/Video%20Demo)
+[](Develop/Video%20Demo/2022-10-19%2020-34-24.mp4)
 
   To test this app, open up the file in VS Code. Open the terminal, change directory into the root folder ‘challenge-9-professional-README-generator’, and run ‘node index.js’. Answer the prompts and view the preview of the ‘generated-README.md’ file in the ‘dist’ folder.
 
